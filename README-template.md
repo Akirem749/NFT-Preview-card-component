@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here]((https://akirem749.github.io/NFT-Preview-card-component/))
 
 ## My process
 
